@@ -5,7 +5,7 @@
       <img alt="Latest release" src="https://img.shields.io/github/v/release/rallyrabbit/AtariTools-Installer" />
     </a>
     <a href="https://github.com/rallyrabbit/AtariTools-Installer/pulse">
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/rallyrabbit/Atari-Installer"/>
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/rallyrabbit/AtariTools-Installer"/>
     </a>
     <a href="https://github.com/johnkharvey/distella">
       <img alt="Distella Latest" src="https://img.shields.io/github/v/release/johnkharvey/distella" />
