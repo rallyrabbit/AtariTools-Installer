@@ -7,17 +7,6 @@
     <a href="https://github.com/rallyrabbit/AtariTools-Installer/pulse">
       <img alt="Last commit" src="https://img.shields.io/github/last-commit/rallyrabbit/AtariTools-Installer"/>
     </a>
-    <a href="https://github.com/johnkharvey/distella">
-      <img alt="Distella Latest" src="https://img.shields.io/github/v/release/johnkharvey/distella" />
-    </a>
-    <a href="https://github.com/stella-emu/stella">
-      <img alt="Stella Latest" src="https://img.shields.io/github/v/release/stella-emu/stella" />
-    </a>
-    <a href="https://github.com/dasm-assembler/dasm">
-      <img alt="DASM Latest" src="https://img.shields.io/github/v/release/dasm-assembler/dasm" />
-    </a>
-  
-  
 </p></div>
 
 ## Purpose
@@ -26,18 +15,39 @@ This is the NSIS for all of the Atari Tools that I use for windows.  This includ
 My Goal is to keep a pulse on the Atari Tool Releases for the few active projects and update the installer as new items come out.  Some of the tools included have varying licenses and are no longer maintained.
 
 ## Distella
+
+<div align="center"><p>
+    <a href="https://github.com/johnkharvey/distella">
+      <img alt="Distella Latest" src="https://img.shields.io/github/v/release/johnkharvey/distella" />
+    </a>
+</p></div>
+
 This includes Distella v3.01a
 Distella is located at https://github.com/johnkharvey/distella
 
 Distella only includes this license information: https://github.com/johnkharvey/distella/blob/master/COPYRIGHT.
 
 ## Stella
+
+<div align="center"><p>
+    <a href="https://github.com/stella-emu/stella">
+      <img alt="Stella Latest" src="https://img.shields.io/github/v/release/stella-emu/stella" />
+    </a>
+</p></div>
+
 This includes the x86 version of Stella v6.5.3
 Stella is located at https://stella-emu.github.io/
 
 Stella uses the GPL v2 license here: https://github.com/stella-emu/stella/blob/master/License.txt
 
 ## DASM
+
+<div align="center"><p>
+    <a href="https://github.com/dasm-assembler/dasm">
+      <img alt="DASM Latest" src="https://img.shields.io/github/v/release/dasm-assembler/dasm" />
+    </a>
+</p></div>
+
 This includes DASM v2.2.11
 DASM is located at https://dasm-assembler.github.io/
 
