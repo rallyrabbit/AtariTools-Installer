@@ -1,11 +1,11 @@
 # Atari Tools
 
 <div align="center"><p>
-    <a href="https://github.com/rallyrabbit/AtariTools/releases/latest">
-      <img alt="Latest release" src="https://img.shields.io/github/v/release/rallyrabbit/AtariTools" />
+    <a href="https://github.com/rallyrabbit/AtariTools-Installer/releases/latest">
+      <img alt="Latest release" src="https://img.shields.io/github/v/release/rallyrabbit/AtariTools-Installer" />
     </a>
-    <a href="https://github.com/rallyrabbit/Neovim-Windows-Installer/pulse">
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/rallyrabbit/Neovim-Windows-Installer"/>
+    <a href="https://github.com/rallyrabbit/AtariTools-Installer/pulse">
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/rallyrabbit/Atari-Installer"/>
     </a>
     <a href="https://github.com/johnkharvey/distella">
       <img alt="Distella Latest" src="https://img.shields.io/github/v/release/johnkharvey/distella" />
