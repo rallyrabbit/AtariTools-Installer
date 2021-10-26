@@ -48,7 +48,7 @@ Stella uses the GPL v2 license here: https://github.com/stella-emu/stella/blob/m
     </a>
 </p></div>
 
-This includes DASM v2.2.11
+This includes DASM v2.20.14.1
 DASM is located at https://dasm-assembler.github.io/
 
 DASM uses the GPL v2 license here: https://github.com/dasm-assembler/dasm/blob/master/LICENSE
