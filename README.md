@@ -22,7 +22,7 @@ My Goal is to keep a pulse on the Atari Tool Releases for the few active project
     </a>
 </p></div>
 
-This includes Distella v3.01a
+This includes Distella v3.01b
 Distella is located at https://github.com/johnkharvey/distella
 
 Distella only includes this license information: https://github.com/johnkharvey/distella/blob/master/COPYRIGHT.
@@ -35,7 +35,7 @@ Distella only includes this license information: https://github.com/johnkharvey/
     </a>
 </p></div>
 
-This includes the x86 version of Stella v6.5.3
+This includes the x86 version of Stella v6.6
 Stella is located at https://stella-emu.github.io/
 
 Stella uses the GPL v2 license here: https://github.com/stella-emu/stella/blob/master/License.txt
