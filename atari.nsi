@@ -13,8 +13,8 @@
 ;--------------------------------
 
 ; Baselines
-!define INSTALLSIZE 8558
-!define VERS "v1.0"
+!define INSTALLSIZE 20180
+!define VERS "v1.1"
 !define PRODUCT "CAO/Atari Tools"
 
 ; The name of the installer
