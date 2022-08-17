@@ -35,7 +35,7 @@ Distella only includes this license information: https://github.com/johnkharvey/
     </a>
 </p></div>
 
-This includes the x86 version of Stella v6.6
+This includes the 64-bit version of Stella v6.7 only.
 Stella is located at https://stella-emu.github.io/
 
 Stella uses the GPL v2 license here: https://github.com/stella-emu/stella/blob/master/License.txt
